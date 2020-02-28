@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BSCGather1</string>
+
+    <string name="bt_start">START</string>
+    <string name="bt_stop">STOP</string>
+    <string name="bt_export">EXPORT</string>
+
+    <string name="bt_stand">STAND</string>
+    <string name="bt_sit">SIT</string>
+    <string name="bt_lia">LIA</string>
+    <string name="bt_walk">WALK</string>
+    <string name="bt_run">RUN</string>
+    <string name="bt_car">CAR</string>
+    <string name="bt_stairs">STAIRS</string>
+    <string name="bt_elevator">ELEVATOR</string>
+    <string name="bt_bike">BIKE</string>
+    <string name="bt_bus">BUS</string>
+    <string name="bt_train">TRAIN</string>
+    <string name="bt_escalator">ESCALATOR</string>
+
+
+</resources>
